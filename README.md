@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @calebhyun
 - 👀 I’m interested in AI and browser extensions.
 - 💞️ I’m looking to work with startups. 
-- 📫 How to reach me: 
-email: calebhyun(at)live.com
+- 📫 How to reach me: calebhyun(at)live.com
 
 <!---
 calebhyun/calebhyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
