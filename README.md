@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @calebhyun, CS student at the University of Michigan.<br>📫 How to reach me: ckhyun (at) umich.edu, https://www.linkedin.com/in/calebkhyun/
+👋 Hi, I’m @calebhyun, CS Junior at the University of Michigan.<br>📫 How to reach me: ckhyun (at) umich.edu, https://www.linkedin.com/in/calebkhyun/
 
 https://calebhyun.com 
 
